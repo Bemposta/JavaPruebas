@@ -1,6 +1,7 @@
 public static void main(){
-	System.out.println("Hola mundo");
 	return;
+	System.out.println("Hola España");
+	if(a>4) contador++;
 }
 
 public void exit(){
