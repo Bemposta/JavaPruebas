@@ -5,5 +5,6 @@ public static void main(){
 
 public void exit(){
 	System.out.println("Adios");
+	contador ++;
 	return;
 }
